@@ -1,1 +1,1 @@
-# Gemstones
+# Gemstones This code counts the number of "gemstone" elements, which are characters common to all strings in the input list. It starts with the first string’s characters in a set and repeatedly intersects it with the characters of the other strings, then returns the count of remaining common characters.
